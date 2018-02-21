@@ -1627,14 +1627,14 @@ the docstring at various places.
 (defn frobnitz
   "This function does a frobnitz.
   It will do gnorwatz to achieve this, but only under certain
-  cricumstances."
+  circumstances."
   []
   ...)
 
 ;; bad
 (defn frobnitz
   "This function does a frobnitz. It will do gnorwatz to
-  achieve this, but only under certain cricumstances."
+  achieve this, but only under certain circumstances."
   []
   ...)
 ```
